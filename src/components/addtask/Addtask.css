@@ -1,0 +1,29 @@
+.addTask{
+    margin: 30px 0 30px 0;
+}
+
+.addTask input{
+    background-color: #c7ddf6;
+    width: 400px;
+    border-style: none;
+    height: 50px;
+    border-radius: 20px;
+    padding: 20px;
+    margin-bottom: 20px;
+    font-size: 15px;
+}
+
+.addTask button{
+    background-color: #9fb3e5; 
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+    border-style: none;
+    font-size: 17px;
+    font-weight: 500;
+}
+
+.addTask button:hover{
+    background-color: black;
+    color: white;
+}

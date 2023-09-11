@@ -1,0 +1,24 @@
+.filter button{
+    width: 100px;
+    border-radius: 9px;
+    border-style: none;
+    background-color: 	black;
+    margin-right: 5px;
+    height: 30px;
+    font-size: 12px;
+    color: white;
+}
+
+.filter button:hover{
+    background-color: #9fb3e5;
+    color: black;
+}
+
+.filter p{
+    font-weight: 300;
+} 
+
+.filter{
+    margin-bottom: 50px;
+}
+
